@@ -1,19 +1,18 @@
 Online Retail Analytics (Analytical-SQL project)
 ==================================================
 
-### Description:
+## Description:
 
 This repository contains SQL queries designed to analyze the OnlineRetail dataset. The dataset encompasses sales transactions in an online retail store, providing insights into customer behavior, product performance, and sales trends.
 
-### Table of Contents:
+## Table of Contents:
 
-1. Introduction:
---------
+### 1. Introduction:
 
 The OnlineRetail dataset is an invaluable resource for understanding customer preferences and sales patterns in an online retail environment. This repository offers a comprehensive set of SQL queries aimed at extracting meaningful insights from the data.
 
-2. Queries Overview:
---------
+### 2. Queries Overview:
+
 
 The SQL queries are structured to address various aspects of the dataset, enabling users to derive actionable insights. Here's a brief overview of the queries included:
 
@@ -31,13 +30,12 @@ The SQL queries are structured to address various aspects of the dataset, enabli
 
 **Monthly Sales Variations:** Measures the monthly difference in sales revenue to identify trends and anomalies.
 
-3. Monetary Model Implementation:
---------
+### 3. Monetary Model Implementation:
+
 
 This section implements a monetary model to segment customers based on their purchasing behavior. Customers are classified into distinct groups such as Champions, Loyal Customers, Potential Loyalists, etc., based on their recency, frequency, and monetary values.
 
-4. Daily Purchasing Transaction Analysis:
---------
+### 4. Daily Purchasing Transaction Analysis:
 
 This part of the project addresses two questions related to customer purchasing behavior:
 
@@ -45,8 +43,10 @@ This part of the project addresses two questions related to customer purchasing 
 
 **Average Days to Reach Spending Threshold:** Calculates the average number of days or transactions required for a customer to reach a spending threshold of 250 L.E.
 
-Usage:
+## Usage:
+
 To use the SQL queries, simply execute them in a compatible SQL environment such as Toad, with the OnlineRetail dataset imported.
 
-Feedback:
+## Feedback:
+
 Your feedback is valuable. If you have any questions, suggestions, or issues, please don't hesitate to reach out to me.
